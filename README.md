@@ -5,3 +5,5 @@
 Учусь в Нетологии
 
  ![Alt text](image.png)
+
+ theme: minima
